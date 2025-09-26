@@ -1,4 +1,4 @@
-def sosal
+def sosal():
     a = 'sosal'
     for i in range(1, 9):
         print(i)
